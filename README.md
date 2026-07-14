@@ -6,7 +6,7 @@ Year, Country, Sex (F/M), Season (Summer/Winter), Sport, and Medal type (Bronze/
 
 ## KPI cards (top row)
 
-### 207 Total Countries
+#### 207 Total Countries
 ### 12K Total Athletes
 ### 725 Total Events
 ### 61 Number of Sports
