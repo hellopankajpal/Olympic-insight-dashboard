@@ -17,7 +17,7 @@ Year, Country, Sex (F/M), Season (Summer/Winter), Sport, and Medal type (Bronze/
 
 ## 1. Which countries dominate the Olympics?
 The "Total medals by country" map shows bubble sizes representing medal counts. The largest, densest bubbles cluster over Europe and North America (notably a large marker over what appears to be the Eastern US and clusters across Western/Central Europe), suggesting these regions have historically dominated medal counts. The dashboard doesn't display an exact country ranking or table, so specific country names/values can't be confirmed from this view alone — filtering by "country" or adding a top-N country chart would clarify this.
-## 2. How has participation evolved over time?
+### 2. How has participation evolved over time?
 The "Participation trend over the years" line chart shows a steady rise from ~1880 to the 1980s, followed by a sharp, oscillating (zig-zag) pattern from around 2000 onward. This zig-zag likely reflects alternating Summer/Winter Games in recent years being counted together, rather than a real decline/spike in participation — it's a charting artifact worth noting rather than a genuine trend reversal.
 ## 3. Which sports contribute the most medals?
 The "Sports with their medals" bar chart is sorted descending, with Athletics, Swimming, and Rowing contributing the highest total medals, followed by Gymnastics, Fencing, and Hockey. Medal contribution drops off steadily across the remaining sports (Football, Ice Hockey, Sailing, Cycling, etc.), with the smallest bars toward Diving, Judo, and Biathlon.
