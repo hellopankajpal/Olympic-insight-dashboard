@@ -15,6 +15,11 @@ Year, Country, Sex (F/M), Season (Summer/Winter), Sport, and Medal type (Bronze/
 ##### 13.1K Silver Medals
 ##### 13.1K(+) Bronze Medals
 
+# Dataset Used
+
+# Dashboard image
+
+
 ### 1. Which countries dominate the Olympics?
 The "Total medals by country" map shows bubble sizes representing medal counts. The largest, densest bubbles cluster over Europe and North America (notably a large marker over what appears to be the Eastern US and clusters across Western/Central Europe), suggesting these regions have historically dominated medal counts. The dashboard doesn't display an exact country ranking or table, so specific country names/values can't be confirmed from this view alone — filtering by "country" or adding a top-N country chart would clarify this.
 ### 2. How has participation evolved over time?
@@ -26,4 +31,4 @@ The athlete table ranks individuals by total medals. Michael Fred Phelps II lead
 ### 5. Is gender participation becoming more balanced?
 The dashboard includes a Sex filter (F/M), but no chart currently visualizes the gender trend over time — this data isn't displayed in the current view. To answer this properly, a visual would need to be added (e.g., a trend line split by Sex), since the filter alone doesn't reveal the balance.
 
-## Summary: The dashboard directly answers questions 1 (partially, via map), 2, 3, and 4. Questions 5 and 6 require additional visuals/fields that aren't currently built into the report — the underlying data may support them, but they're not exposed in this view.
+
