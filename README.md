@@ -6,7 +6,7 @@ Year, Country, Sex (F/M), Season (Summer/Winter), Sport, and Medal type (Bronze/
 
 ## KPI cards (top row)
 
-##### 207 Total Countries
+- 207 Total Countries
 ##### 12K Total Athletes
 ##### 725 Total Events
 ##### 61 Number of Sports
@@ -16,10 +16,10 @@ Year, Country, Sex (F/M), Season (Summer/Winter), Sport, and Medal type (Bronze/
 ##### 13.1K(+) Bronze Medals
 
 ## Dataset Used
-<a href="https://github.com/hellopankajpal/Olympic-insight-dashboard/blob/main/dashboard%20image.png">dataset</a>
+- <a href="https://github.com/hellopankajpal/Olympic-insight-dashboard/blob/main/olympic%20dataset.gz">dataset</a>
 
 ## Dashboard image
-<a href="https://github.com/hellopankajpal/Olympic-insight-dashboard/blob/main/dashboard%20image.png">dataset</a>
+- <a href="https://github.com/hellopankajpal/Olympic-insight-dashboard/blob/main/dashboard%20image.png">Image</a>
 
 
 ### 1. Which countries dominate the Olympics?
