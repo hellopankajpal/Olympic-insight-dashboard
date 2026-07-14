@@ -15,9 +15,11 @@ Year, Country, Sex (F/M), Season (Summer/Winter), Sport, and Medal type (Bronze/
 ##### 13.1K Silver Medals
 ##### 13.1K(+) Bronze Medals
 
-# Dataset Used
+## Dataset Used
+<a href="https://github.com/hellopankajpal/Olympic-insight-dashboard/blob/main/dashboard%20image.png">dataset</a>
 
-# Dashboard image
+## Dashboard image
+<a href="https://github.com/hellopankajpal/Olympic-insight-dashboard/blob/main/dashboard%20image.png">dataset</a>
 
 
 ### 1. Which countries dominate the Olympics?
