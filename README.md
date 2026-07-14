@@ -21,7 +21,7 @@ Year, Country, Sex (F/M), Season (Summer/Winter), Sport, and Medal type (Bronze/
 ## Dashboard image
 - <a href="https://github.com/hellopankajpal/Olympic-insight-dashboard/blob/main/dashboard%20image.png">Image</a>
 
-##💡 Business Questions Answered
+## 💡 Business Questions Answered
 
 ### 1. Which countries dominate the Olympics?
 The "Total medals by country" map shows bubble sizes representing medal counts. The largest, densest bubbles cluster over Europe and North America (notably a large marker over what appears to be the Eastern US and clusters across Western/Central Europe), suggesting these regions have historically dominated medal counts. The dashboard doesn't display an exact country ranking or table, so specific country names/values can't be confirmed from this view alone — filtering by "country" or adding a top-N country chart would clarify this.
